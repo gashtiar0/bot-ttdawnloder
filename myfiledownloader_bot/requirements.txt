@@ -1,0 +1,4 @@
+python-telegram-ext
+yt-dlp
+shazamio
+requests
